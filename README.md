@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Zelgai123/Zelgai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zelgai123/Zelgai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hi there 👋, my name is Zelgai
 #### I am a systems engineering student and software developer.
 ![I am a systems engineering student and software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
