@@ -2,6 +2,19 @@
 
 <!--
 **Zelgai123/Zelgai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Zelgai
+#### I am a systems engineering student and software developer.
+![I am a systems engineering student and software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 Here are some ideas to get you started:
 
