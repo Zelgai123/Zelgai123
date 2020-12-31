@@ -1,10 +1,6 @@
-### Hi there, I'm Zelgai [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://zelgainemati.com/)
-[![linkedin Follow](https://www.google.com/search?q=linked+in+picture&rlz=1C1ONGR_deDE930DE930&sxsrf=ALeKk0053rRYoj6U4hp7Kt3MjsAfELiWbw:1609449287094&tbm=isch&source=iu&ictx=1&fir=4gvdWfYUA4PLxM%252CawI1cn7WFIw1KM%252C_&vet=1&usg=AI4_-kRXcoY08cAeVze_T7Xy96RyxZheUA&sa=X&ved=2ahUKEwjzw6nokfntAhUR7KQKHcXoChsQ9QF6BAgREAE#imgrc=4gvdWfYUA4PLxM)]
+### Hi there, I'm [Zelgai][website] 👋
 
 ## I'm a systems engineering student and software developer!
-
 
 ### Connect with me:
 
