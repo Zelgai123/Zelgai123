@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://zelgainemati.com/](zelgainemati.com)
+- 👨‍💻 All of my projects are available at [zelgainemati.com/](https://zelgainemati.com/)
 
 - 📫 How to reach me **zelgainemati13@gmail.com**
 
