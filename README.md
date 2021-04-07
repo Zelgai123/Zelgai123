@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zelgai</h1>
-<h3 align="center">A systems-engineering student and software developer!</h3>
+<h3 align="center">A systems-engineering student and solutions engineer!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zelgai123" alt="zelgai123" /></a> </p>
 
