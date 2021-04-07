@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [a website for the "Integrated Product Development" institute in bremen/germany](https://github.com/Web-App-zur-Einzelblattmontagen/offshoreSingleBladeAssembly)
 
-- 🌱 I’m currently learning **Tensorflow, Docker and Kubernetes**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [zelgainemati.com/](https://zelgainemati.com/)
-
-- 📫 How to reach me **zelgainemati13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
